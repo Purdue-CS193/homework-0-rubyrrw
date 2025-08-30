@@ -3,7 +3,7 @@
 - It's nice that i can learn how to use GitHub since i've always found it confusing.
 - I like how clear the instructions are for the homework.
 - I like that we have the opportunity to learn cool things I might have missed without signing up for this course
-- 
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
